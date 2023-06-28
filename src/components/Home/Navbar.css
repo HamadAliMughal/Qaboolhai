@@ -1,0 +1,141 @@
+.Logo1{
+    color: white;
+    margin-left: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    margin-top: 0px;
+}
+
+.Logo1:hover{
+    color:white;
+    text-shadow: 2px 2px 10px black;
+}
+
+.header-text .caption{
+    font-style: italic;
+}
+
+.s{
+text-align: right;
+margin-left: 5rem;
+background-color: crimson;
+}
+
+.s:hover{
+    background-color: crimson;
+    box-shadow: 5px 5px 15px white;
+}
+
+.nav-btns{
+  
+    justify-content: end;
+
+}
+.back-color{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50rem;
+    background-color: crimson;
+}
+.margin-bot{
+    margin-bottom: 3.5rem;
+}
+
+.Footer-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.follow-icons{
+    text-align: right;
+}
+
+.about-btn{
+    color:white;
+    margin-left: 1rem;
+margin-top: 2rem;
+    margin-right: 1rem;
+}
+.home-btn{
+    color:white;
+    margin-left: 1rem;
+margin-top: 2rem;
+    margin-right: 1rem;
+}
+
+.pricing-btn{
+    color:white;
+    margin-left: 1rem;
+margin-top: 2rem;
+    margin-right: 1rem;
+}
+
+.pricing-btn:hover{
+    color:white;
+    text-shadow: 2px 2px 10px black;
+}
+
+.home-btn:hover{
+    color:white;
+    text-shadow: 2px 2px 10px black;
+}
+
+.about-btn:hover{
+    color:white;
+    text-shadow: 2px 2px 10px black;
+}
+
+.footer-b{
+background-color: crimson;
+}
+.srvs-title{
+    color: crimson;
+}
+.slider{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+.your-ssc{
+    justify-content: center;
+    margin: auto;
+}
+.your-ss{
+    justify-content: center;
+    text-align: center;
+    
+}
+.your-ss-btn{
+
+    justify-content: center;
+    background-color: crimson;
+    color: white;
+}
+.your-ss-btn:hover{
+    background-color: crimson;
+    box-shadow: 5px 5px 15px black;
+}
+.ss-link{
+    color: white;
+}
+.ss-link :hover{
+    color: white;
+}
+
+.links{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.links:hover{
+    color:white;
+    text-shadow: 2px 2px 10px black;
+}
+
+.follow{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.follow span{
+    font-size: 3rem;
+}
